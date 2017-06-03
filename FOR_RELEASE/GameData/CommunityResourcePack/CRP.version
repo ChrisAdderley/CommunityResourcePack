@@ -1,6 +1,6 @@
 {
      "NAME":"Community Resource Pack",
-     "URL":"https://raw.githubusercontent.com/BobPalmer/CommunityResourcePack/master/GameData/CommunityResourcePack/CRP.version",
+     "URL":"https://raw.githubusercontent.com/BobPalmer/CommunityResourcePack/master/FOR_RELEASE/GameData/CommunityResourcePack/CRP.version",
      "DOWNLOAD":"https://github.com/BobPalmer/CommunityResourcePack/releases",
      "GITHUB":{
          "USERNAME":"BobPalmer",
@@ -9,23 +9,23 @@
      },
      "VERSION":{
          "MAJOR":0,
-         "MINOR":3,
-         "PATCH":3,
+         "MINOR":7,
+         "PATCH":1,
          "BUILD":0
      },
      "KSP_VERSION":{
-         "MAJOR":0,
-         "MINOR":90,
+         "MAJOR":1,
+         "MINOR":3,
          "PATCH":0
      },
      "KSP_VERSION_MIN":{
-         "MAJOR":0,
-         "MINOR":24,
-         "PATCH":2
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":9
      },
      "KSP_VERSION_MAX":{
-         "MAJOR":0,
-         "MINOR":90,
-         "PATCH":0
+         "MAJOR":1,
+         "MINOR":3,
+         "PATCH":9
      }
  } 
